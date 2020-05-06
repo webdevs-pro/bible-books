@@ -1,23 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <filelist>
   <file>
-    <filename>syno.zip</filename>
-    <name>SYNO</name>
-    <about>Русский Синодальный перевод.</about>
+    <filename>rst.zip</filename>
+    <name>RST+</name>
+    <about>Русский Синодальный перевод. Российское Библейское Общество.</about>
+  </file>
+   <file>
+    <filename>nrt.zip</filename>
+    <name>NRT</name>
+    <about>Новый русский перевод. Новая версия Слово Жизни. </about>
   </file>
   <file>
     <filename>hom.zip</filename>
     <name>HOM</name>
-    <about>Українська біблія у перекладі Хоменка.</about>
+    <about>Українська біблія у перекладі Івана Хоменка.</about>
   </file>
   <file>
     <filename>tub.zip</filename>
     <name>TUB</name>
-    <about>Українська біблія у перекладі Турконяка.</about>
+    <about>Українська біблія у перекладі Рафаїла Турконяка.</about>
   </file>
   <file>
     <filename>ubio.zip</filename>
     <name>UBIO</name>
-   <about>Українська біблія у перекладі Огієнка, редакція 1988 року.</about>
+   <about>Українська біблія у перекладі Івана Огієнка, редакція 1988 року.</about>
   </file>
 </filelist>
