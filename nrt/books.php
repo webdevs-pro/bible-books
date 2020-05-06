@@ -1,12 +1,12 @@
 <?php
-	$bg_bibrefs_lang_name = 'NRT (Новый русский перевод)';
-	$bg_bibrefs_book_lang = 'nrt';
-	$bg_bibrefs_chapter = 'Глава';
-	$bg_bibrefs_ch = 'гл.';
-	$bg_bibrefs_psalm = 'Псалом';
-	$bg_bibrefs_ps = 'пс.';
+	$biblerefs_lang_name = 'NRT (Новый русский перевод)';
+	$biblerefs_book_lang = 'nrt';
+	$biblerefs_chapter = 'Глава';
+	$biblerefs_ch = 'гл.';
+	$biblerefs_psalm = 'Псалом';
+	$biblerefs_ps = 'пс.';
 	
-	$bg_bibrefs_url = array(		// Допустимые обозначения книг Священного Писания
+	$biblerefs_url = array(		// Допустимые обозначения книг Священного Писания
 		// Ветхий Завет
 		// Пятикнижие Моисея															
 		'Gen'			=>'Gen',			//'Книга Бытия', 	
@@ -250,7 +250,7 @@
 	);				
 
 
-	$bg_bibrefs_bookTitle = array(			// Полные названия Книг Священного Писания
+	$biblerefs_bookTitle = array(			// Полные названия Книг Священного Писания
 		// Ветхий Завет
 		// Пятикнижие Моисея
 		'Gen' 		=>'Бытие', 
@@ -328,7 +328,7 @@
 		'Apok' 		=>'Откровение ап. Иоанна Богослова'
 		);
 
-	$bg_bibrefs_shortTitle = array(		// Стандартные обозначение книг Священного Писания
+	$biblerefs_shortTitle = array(		// Стандартные обозначение книг Священного Писания
 		// Ветхий Завет
 		// Пятикнижие Моисея															
 		'Gen'			=>"Быт.", 
@@ -405,7 +405,7 @@
 		'Hebr'		=>"Евр.",
 		'Apok'		=>"Отк.");
 
-	$bg_bibrefs_bookFile = array(							// Таблица названий файлов книг
+	$biblerefs_bookFile = array(							// Таблица названий файлов книг
 		// Ветхий Завет
 		// Пятикнижие Моисея
 		'Gen'	 		=>'nrt/gen',							//'Книга Бытия', 

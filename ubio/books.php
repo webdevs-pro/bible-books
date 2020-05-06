@@ -1,12 +1,12 @@
 <?php
-	$bg_bibrefs_lang_name = 'UBIO (Українська Огієнка)';
-	$bg_bibrefs_book_lang = 'ubio';
-	$bg_bibrefs_chapter = 'Розділ';
-	$bg_bibrefs_ch = 'рз.';
-	$bg_bibrefs_psalm = 'Псалом';
-	$bg_bibrefs_ps = 'пс.';
+	$biblerefs_lang_name = 'UBIO (Українська Огієнка)';
+	$biblerefs_book_lang = 'ubio';
+	$biblerefs_chapter = 'Розділ';
+	$biblerefs_ch = 'рз.';
+	$biblerefs_psalm = 'Псалом';
+	$biblerefs_ps = 'пс.';
 	
-	$bg_bibrefs_url = array(		// Допустимые обозначения книг Священного Писания
+	$biblerefs_url = array(		// Допустимые обозначения книг Священного Писания
 		// Ветхий Завет
 		// Пятикнижие Моисея															
 		'Gen'			=>'Gen',		//'Книга Бытия', 	
@@ -323,7 +323,7 @@
 		'Об'			=>'Apok'
 	);				
 
-	$bg_bibrefs_bookTitle = array(			// Полные названия Книг Священного Писания
+	$biblerefs_bookTitle = array(			// Полные названия Книг Священного Писания
 		'Gen' 		=>'Буття', 
 		'Ex' 			=>'Вихід', 
 		'Lev' 		=>'Левит', 
@@ -392,7 +392,7 @@
 		'Apok' 		=>'Об\'явлення'
 	);
 
-	$bg_bibrefs_shortTitle = array(			// Стандартные обозначения книг Священного Писания
+	$biblerefs_shortTitle = array(			// Стандартные обозначения книг Священного Писания
 		// Ветхий Завет
 		// Пятикнижие Моисея															
 		'Gen'			=>"Бут.", 
@@ -469,7 +469,7 @@
 		'Hebr'		=>"Євр.",
 		'Apok'		=>"Об.");
 
-	$bg_bibrefs_bookFile = array(							// Таблица названий файлов книг
+	$biblerefs_bookFile = array(							// Таблица названий файлов книг
 		// Ветхий Завет
 		// Пятикнижие Моисея
 		'Gen'	 		=>'ubio/gen',							//'Книга Бытия', 
